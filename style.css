@@ -1,0 +1,77 @@
+body{
+  margin: 0;
+  margin-left: 40%;
+  color: rgb(59,59,59);
+  font-family: 'Josefin Slab', serif;
+  background-color: white;
+  font-size: large;
+}
+
+.resultContainer{
+  display: grid;
+  grid-template-columns: 100%;
+  grid-template-rows: 25% 75%;
+  font-size: 40px;
+  border: 1px solid black;
+  margin-top: 10%;
+  display: grid;
+  height: 100px;
+  border-radius: 5px 5px 0px 0px;
+  height: 102px;
+  width: 283.5px;
+  background-color: rgba(33, 33, 33, 1);
+  color: rgb(254, 254, 254);
+}
+
+.equation{
+  font-size: 17px;
+  display: grid;
+  justify-content: flex-end;
+  align-items: flex-end;
+  margin-right: 20px;
+  margin-top: 20px;
+  color:rgb(218,127,144);
+}
+
+.result{
+  display: grid;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  justify-content: flex-end;
+  align-items: flex-end;
+}
+
+.container{
+  margin: 0;
+  height: 265px;
+  width: 285px;
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  grid-template-rows: 1fr 1fr 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+}
+
+.containers{
+  display: grid;
+  grid-template-columns: 25% 25% 50%;
+  grid-template-rows: 1fr;
+  justify-content: center;
+  align-items: center;
+  width: 285px;
+  border-radius: 20px 20px 20px 20px;
+}
+
+
+.buttons{
+  display: flex;
+  height: 67px;
+  width: 71px;
+  justify-content: center;
+  align-items: center;
+}
+
+.equals{
+  background-color: rgb(228, 53, 137);
+  width: 100%;
+}
