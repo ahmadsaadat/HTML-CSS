@@ -5,6 +5,6 @@ This design was submitted on Behance.net by Dia Dea
 ![Behance Design](https://github.com/ahmadsaadat/HTML-CSS/blob/master/BehanceDesign.png)
 
 # Implementation
-I took this design and coded it with CSS Grid
+I took this design and coded it with CSS Grid and completed it's complementery JavaScript as well.
 
 <img src="https://github.com/ahmadsaadat/HTML-CSS/blob/master/UI.png" alt="My UI" />
