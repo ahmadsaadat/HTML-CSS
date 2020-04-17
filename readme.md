@@ -4,11 +4,6 @@ This design was submitted on Behance.net by Dia Dea
 
 ![Behance Design](https://github.com/ahmadsaadat/HTML-CSS/blob/master/BehanceDesign.png)
 
-|\
-|\
-|\
-&#9660;
-
 # Implementation
 I took this design and coded it with CSS Grid
 
